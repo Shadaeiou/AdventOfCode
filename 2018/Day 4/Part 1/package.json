@@ -1,0 +1,15 @@
+{
+  "name": "aoc_day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "moment": "^2.22.2"
+  }
+}
